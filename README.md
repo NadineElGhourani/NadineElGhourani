@@ -16,3 +16,5 @@ I'm a **Front-end software engineer** with experience in **UI/UX design** and **
 
 
 Let's connect: www.linkedin.com/in/nadineelghourani
+
+feel free to contact me : nadine.ghourani9@gmail.com
