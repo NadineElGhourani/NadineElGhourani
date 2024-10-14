@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋, I'm Nadine!
+I'm a **Front-end software engineer** with experience in **UI/UX design** and **Figma**. I love building web and mobile applications.
 
-<!--
-**NadineElGhourani/NadineElGhourani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages and Tools:**
+- HTML5
+- CSS3
+- JavaScript
+- Figma
+- Git & GitHub
+- react
+- java
+- c
+- c++
+- parallel programming
+- c# (.NET)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's connect: www.linkedin.com/in/nadineelghourani
